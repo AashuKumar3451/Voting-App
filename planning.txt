@@ -38,7 +38,7 @@ Functionalities:
 5. Admin Candidate Management:
     /candidate: POST - Create a new candidate.
     /candidate/:candidateId : PUT - Update an existing candidate.
-    /candidate/candidateId : DELETE - Delete a candidate from the list.
+    /candidate/:candidateId : DELETE - Delete a candidate from the list.
 
 --------------------------------------------------
 
